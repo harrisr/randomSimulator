@@ -1,0 +1,1 @@
+This is a simple Java simulator for looking at the "randomness" of various random number generators.
